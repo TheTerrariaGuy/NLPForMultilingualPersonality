@@ -1,0 +1,54 @@
+[
+    {
+        "contents": "Hey, 你昨天的考试怎么样?",
+        "score": 0.3120361268520355
+    },
+    {
+        "contents": "哎, don’t even talk about it.",
+        "score": 0.5585389137268066
+    },
+    {
+        "contents": "It was so hard!",
+        "score": 0.4806349277496338
+    },
+    {
+        "contents": "老师出的题比我想象的难多了.",
+        "score": 0.3615210950374603
+    },
+    {
+        "contents": "I know, right?",
+        "score": 0.2677742838859558
+    },
+    {
+        "contents": "我本来以为会简单一点, but then I saw the first question and just—完了.",
+        "score": 0.33548733592033386
+    },
+    {
+        "contents": "And the essay part?",
+        "score": 0.2958301305770874
+    },
+    {
+        "contents": "完全不知道怎么写, I just wrote whatever came to mind.",
+        "score": 0.5492986440658569
+    },
+    {
+        "contents": "Me too, but 老师真的很严格, so I don’t know if it’s enough.",
+        "score": 0.5931831002235413
+    },
+    {
+        "contents": "Yeah… 下次我们还是早点复习吧, I don’t want to go through this stress again.",
+        "score": 0.25498709082603455
+    },
+    {
+        "contents": "Agreed.",
+        "score": 0.3979012668132782
+    },
+    {
+        "contents": "下周开始一起复习吧?",
+        "score": 0.31659382581710815
+    },
+    {
+        "contents": "好啊, let’s do that!",
+        "score": 0.5968782305717468
+    }
+]
