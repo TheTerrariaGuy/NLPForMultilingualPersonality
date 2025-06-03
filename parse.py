@@ -12,7 +12,6 @@ try:
         thisString = ""
         thisId = ""
         for i in tqdm(range(len(temp))):
-            # print(f"Processing token {i+1}/{len(temp)}")
             if re.search(r'-', temp[i]) and len(temp[i]) > 12:  # Check for new line
                 if len(thisString.strip()) > 5:  # Check if the sentence is not too short (>4 characters, may change)
                     thisString = re.sub(r"@\w+|#\w+", "", thisString.strip())

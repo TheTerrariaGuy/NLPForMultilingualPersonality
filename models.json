@@ -1,8 +1,0 @@
-[
-    "uer/roberta-base-finetuned-chinanews-chinese",
-    "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
-    "yuyijiong/T5-large-sentiment-analysis-Chinese-MultiTask",
-    "clapAI/modernBERT-large-multilingual-sentiment",
-    "clapAI/roberta-large-multilingual-sentiment",
-    "arjuntheprogrammer/distilbert-base-multilingual-cased-sentiment-2"
-]
