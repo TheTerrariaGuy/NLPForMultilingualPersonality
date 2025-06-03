@@ -80,5 +80,3 @@ try:
         json.dump(results, out_file, ensure_ascii=False, indent=4)
 except Exception as e:
     print(e)
-    
-

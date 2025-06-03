@@ -6,3 +6,7 @@ myenv/
 
 # ignore data files
 data/
+
+# ignore testing files
+testing.py
+
